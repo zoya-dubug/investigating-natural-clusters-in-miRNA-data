@@ -54,7 +54,7 @@ Biological Interpretation
 
 ### Class Distribution
 
-![Class Distribution](screenshots/class_distribution.png)
+![Class Distribution](screenshots/class Distribution plot.png)
 
 The dataset is highly imbalanced, with primary breast cancer samples greatly outnumbering normal breast tissue samples.
 
@@ -68,7 +68,7 @@ PCA was applied to reduce dimensionality while retaining most of the information
 
 ### PCA Visualization
 
-![PCA Scatter](screenshots/pca_scatter_pc1_pc2.png)
+![PCA Scatter](screenshots/PCA scatter plot (PC1 vs PC2).png)
 
 ### PCA Summary
 
@@ -86,7 +86,7 @@ PCA reduced the feature space by more than 98% while preserving the majority of 
 
 ### Elbow Method
 
-![KMeans Elbow](screenshots/kmeans_elbow.png)
+![KMeans Elbow](screenshots/Elbow Plot.png)
 
 ### Results
 
@@ -103,7 +103,7 @@ Unlike K-Means, GMM performs soft clustering by assigning probabilities of membe
 
 ### Confidence Distribution
 
-![GMM Confidence](screenshots/gmm_confidence_histogram.png)
+![GMM Confidence](screenshots/Confidence Histogram.png)
 
 ### Results
 
@@ -130,7 +130,7 @@ Hierarchical clustering was performed using Ward linkage.
 
 ### Dendrogram
 
-![Dendrogram](screenshots/hc_dendrogram.png)
+![Dendrogram](screenshots/Dendrogram.png)
 
 ### Results
 
@@ -145,11 +145,11 @@ The dendrogram revealed nested structures and additional subgroup relationships 
 
 ### Best Silhouette Scores
 
-![Best Silhouette Comparison](screenshots/best_silhouette_comparison.png)
+![Best Silhouette Comparison](screenshots/Best Silhouette Comparison.png)
 
 ### Silhouette Score Trends
 
-![Silhouette Comparison](screenshots/silhouette_comparison_all_algorithms.png)
+![Silhouette Comparison](screenshots/Silhouette comparison (all algorithms).png)
 
 ### Performance Summary
 
@@ -205,12 +205,11 @@ project/
 ├── data/
 │
 ├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_PCA.ipynb
-│   ├── 03_KMeans.ipynb
-│   ├── 04_GMM.ipynb
-│   ├── 05_Hierarchical_Clustering.ipynb
-│   └── 06_Algorithm_Comparison.ipynb
+│   ├── EDA_PCA.ipynb
+│   ├── KMeans.ipynb
+│   ├── MM.ipynb
+│   ├── Hierarchi_Calclustering.ipynb
+│   └── Comparison.ipynb
 │
 ├── screenshots/
 │
