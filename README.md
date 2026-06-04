@@ -54,7 +54,7 @@ Biological Interpretation
 
 ### Class Distribution
 
-![Class Distribution](screenshots/class Distribution plot.png)
+![Class Distribution](screenshots/Class_Distribution_plot.png)
 
 The dataset is highly imbalanced, with primary breast cancer samples greatly outnumbering normal breast tissue samples.
 
@@ -68,7 +68,7 @@ PCA was applied to reduce dimensionality while retaining most of the information
 
 ### PCA Visualization
 
-![PCA Scatter](screenshots/PCA scatter plot (PC1 vs PC2).png)
+![PCA Scatter](screenshots/PCA_scatter_plot_(PC1_vs_PC2).png)
 
 ### PCA Summary
 
@@ -86,7 +86,7 @@ PCA reduced the feature space by more than 98% while preserving the majority of 
 
 ### Elbow Method
 
-![KMeans Elbow](screenshots/Elbow Plot.png)
+![KMeans Elbow](screenshots/Elbow_plot.png)
 
 ### Results
 
@@ -103,7 +103,7 @@ Unlike K-Means, GMM performs soft clustering by assigning probabilities of membe
 
 ### Confidence Distribution
 
-![GMM Confidence](screenshots/Confidence Histogram.png)
+![GMM Confidence](screenshots/GMM_confidence_scores.png)
 
 ### Results
 
@@ -145,11 +145,11 @@ The dendrogram revealed nested structures and additional subgroup relationships 
 
 ### Best Silhouette Scores
 
-![Best Silhouette Comparison](screenshots/Best Silhouette Comparison.png)
+![Best Silhouette Comparison](screenshots/Best_Silhouette_Comparison.png)
 
 ### Silhouette Score Trends
 
-![Silhouette Comparison](screenshots/Silhouette comparison (all algorithms).png)
+![Silhouette Comparison](screenshots/Silhouette_comparison_ (all algorithms).png)
 
 ### Performance Summary
 
