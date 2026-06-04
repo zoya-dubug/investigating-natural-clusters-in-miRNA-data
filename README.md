@@ -145,12 +145,10 @@ The dendrogram revealed nested structures and additional subgroup relationships 
 
 ### Best Silhouette Scores
 
-![Best Silhouette Comparison](screenshots/Best_Silhouette_Comparison.png)
-
+![Best Silhouette Comparison](screenshots/Best_Silhouette_Comparision.png)
 ### Silhouette Score Trends
 
-![Silhouette Comparison](screenshots/Silhouette_comparison_ (all_algorithms).png)
-
+![Silhouette Comparison](screenshots/Silhouette_comparison_(all_algorithms).png)
 ### Performance Summary
 
 | Algorithm    | Best K | Best Silhouette |
