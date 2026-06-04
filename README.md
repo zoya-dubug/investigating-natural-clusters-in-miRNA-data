@@ -149,7 +149,7 @@ The dendrogram revealed nested structures and additional subgroup relationships 
 
 ### Silhouette Score Trends
 
-![Silhouette Comparison](screenshots/Silhouette_comparison_ (all algorithms).png)
+![Silhouette Comparison](screenshots/Silhouette_comparison_ (all_algorithms).png)
 
 ### Performance Summary
 
