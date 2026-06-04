@@ -208,7 +208,7 @@ project/
 │   ├── EDA_PCA.ipynb
 │   ├── KMeans.ipynb
 │   ├── MM.ipynb
-│   ├── Hierarchi_Calclustering.ipynb
+│   ├── Hierarchi_Clustering.ipynb
 │   └── Comparison.ipynb
 │
 ├── screenshots/
